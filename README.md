@@ -1,6 +1,3 @@
-# About  
----  
-
 ## Key Areas of Expertise:  
 - IT Infrastructure & Network Security  
 - Industrial Automation Systems  
