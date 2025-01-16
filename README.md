@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ## Key Areas of Expertise:  
 - IT Infrastructure & Network Security  
 - Industrial Automation Systems  
