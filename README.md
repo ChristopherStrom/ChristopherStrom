@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 ## Key Areas of Expertise:  
 - IT Infrastructure & Network Security  
 - Industrial Automation Systems  
